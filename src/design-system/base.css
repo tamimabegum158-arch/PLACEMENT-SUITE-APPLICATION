@@ -19,11 +19,13 @@ h1, h2, h3 {
   font-weight: 600;
   letter-spacing: var(--letter-spacing-heading);
   line-height: var(--line-height-tight);
+  color: var(--color-heading);
 }
 
 .heading-1 {
   font-size: var(--text-heading-size);
   margin: 0 0 var(--space-2) 0;
+  color: var(--color-heading);
 }
 
 .subtext {

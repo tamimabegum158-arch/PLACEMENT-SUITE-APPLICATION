@@ -2,8 +2,12 @@ import { Routes, Route } from 'react-router-dom'
 import Layout from './components/Layout'
 import Landing from './pages/Landing'
 import Jobs from './pages/Jobs'
-import Analyze from './pages/Analyze'
-import Resume from './pages/Resume'
+import AnalyzePage from './pages/AnalyzePage'
+import AnalyzeResults from './pages/AnalyzeResults'
+import AnalyzeHistory from './pages/AnalyzeHistory'
+import ResumeLanding from './pages/ResumeLanding'
+import ResumeBuilderPage from './pages/ResumeBuilderPage'
+import ResumePreviewPage from './pages/ResumePreviewPage'
 import Applications from './pages/Applications'
 import Dashboard from './pages/Dashboard'
 import Settings from './pages/Settings'
@@ -16,8 +20,16 @@ function App() {
       <Route path="/" element={<Layout />}>
         <Route index element={<Landing />} />
         <Route path="jobs" element={<Jobs />} />
-        <Route path="analyze" element={<Analyze />} />
-        <Route path="resume" element={<Resume />} />
+        <Route path="analyze">
+          <Route index element={<AnalyzePage />} />
+          <Route path="results" element={<AnalyzeResults />} />
+          <Route path="history" element={<AnalyzeHistory />} />
+        </Route>
+        <Route path="resume">
+          <Route index element={<ResumeLanding />} />
+          <Route path="builder" element={<ResumeBuilderPage />} />
+          <Route path="preview" element={<ResumePreviewPage />} />
+        </Route>
         <Route path="applications" element={<Applications />} />
         <Route path="dashboard" element={<Dashboard />} />
         <Route path="settings" element={<Settings />} />

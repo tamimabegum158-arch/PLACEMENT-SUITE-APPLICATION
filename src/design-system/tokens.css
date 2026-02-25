@@ -6,6 +6,8 @@
 :root {
   --color-bg: #F7F6F3;
   --color-text: #111111;
+  --color-heading: #4a3728;
+  --color-subheading: #6b4c9a;
   --color-accent: #8B0000;
   --color-success: #5c6b5c;
   --color-warning: #8a7a5a;
@@ -38,6 +40,8 @@
   --layout-panel-ratio: 30%;
 
   --radius: 6px;
+  --input-height: 44px;
+  --button-height: 44px;
   --transition-duration: 180ms;
   --transition-ease: ease-in-out;
 }
