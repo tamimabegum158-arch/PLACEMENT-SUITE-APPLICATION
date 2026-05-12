@@ -1,5 +1,5 @@
 ﻿/**
- * Job Notification Tracker â€” local dataset of 60 realistic Indian tech jobs.
+ * Job Notification Tracker - local dataset of 60 realistic Indian tech jobs.
  * No backend. Used for dashboard and saved views.
  */
 
@@ -14,7 +14,7 @@ export const JOBS_DATA = [
     skills: ["Java", "Data Structures", "Algorithms", "SQL"],
     source: "LinkedIn",
     postedDaysAgo: 1,
-    salaryRange: "â‚¹40kâ€“â‚¹60k/month Internship",
+    salaryRange: "₹40k–₹60k/month Internship",
     applyUrl: "https://www.linkedin.com/jobs/view/1",
     description: "Work on real-world projects alongside experienced engineers. You will design, implement and test features for one of our customer-facing products. Strong problem-solving and communication skills required. Mentorship provided throughout the internship."
   },
@@ -28,7 +28,7 @@ export const JOBS_DATA = [
     skills: ["Java", "C", "SQL", "Software Development Life Cycle"],
     source: "Naukri",
     postedDaysAgo: 3,
-    salaryRange: "3â€“5 LPA",
+    salaryRange: "3–5 LPA",
     applyUrl: "https://www.naukri.com/job/2",
     description: "GET program for 2024/2025 passouts. You will undergo structured training and then be deployed on live projects in domains such as BFSI, retail or healthcare. We look for strong fundamentals and willingness to learn new technologies."
   },
@@ -42,7 +42,7 @@ export const JOBS_DATA = [
     skills: ["Python", "PostgreSQL", "Redis", "REST APIs"],
     source: "LinkedIn",
     postedDaysAgo: 0,
-    salaryRange: "10â€“18 LPA",
+    salaryRange: "10–18 LPA",
     applyUrl: "https://www.linkedin.com/jobs/view/3",
     description: "Build and maintain services that power millions of transactions. You will work on payment APIs, reconciliation systems and internal tools. Experience with Python and relational databases is essential. Fast-paced fintech environment."
   },
@@ -56,7 +56,7 @@ export const JOBS_DATA = [
     skills: ["React", "JavaScript", "HTML", "CSS"],
     source: "Indeed",
     postedDaysAgo: 5,
-    salaryRange: "â‚¹25kâ€“â‚¹35k/month Internship",
+    salaryRange: "₹25k–₹35k/month Internship",
     applyUrl: "https://www.indeed.com/job/4",
     description: "Contribute to our customer engagement platform UI. You will implement responsive components, fix bugs and participate in code reviews. Prior experience with React or similar framework is a plus. Six-month internship with potential PPO."
   },
@@ -70,7 +70,7 @@ export const JOBS_DATA = [
     skills: ["Manual Testing", "SQL", "JIRA", "Test Cases"],
     source: "Naukri",
     postedDaysAgo: 7,
-    salaryRange: "â‚¹15kâ€“â‚¹25k/month Internship",
+    salaryRange: "₹15k–₹25k/month Internship",
     applyUrl: "https://www.naukri.com/job/5",
     description: "Assist the QA team in test case design, execution and defect logging. You will work on web and mobile applications. Understanding of SDLC and basic SQL required. Training on automation tools may be provided."
   },
@@ -84,7 +84,7 @@ export const JOBS_DATA = [
     skills: ["SQL", "Excel", "Python", "Data Visualization"],
     source: "LinkedIn",
     postedDaysAgo: 2,
-    salaryRange: "â‚¹30kâ€“â‚¹45k/month Internship",
+    salaryRange: "₹30k–₹45k/month Internship",
     applyUrl: "https://www.linkedin.com/jobs/view/6",
     description: "Analyse e-commerce data to derive insights for category and supply chain teams. You will write queries, build dashboards and present findings. Proficiency in SQL and a scripting language preferred. Strong logical reasoning required."
   },
@@ -98,7 +98,7 @@ export const JOBS_DATA = [
     skills: ["Java", "Spring Boot", "MySQL", "REST"],
     source: "Naukri",
     postedDaysAgo: 4,
-    salaryRange: "6â€“10 LPA",
+    salaryRange: "6–10 LPA",
     applyUrl: "https://www.naukri.com/job/7",
     description: "Develop and maintain Java-based applications for our clients. You will work on Spring Boot microservices and integrate with databases and APIs. Training on our frameworks will be provided. Good academic record and coding skills expected."
   },
@@ -112,7 +112,7 @@ export const JOBS_DATA = [
     skills: ["Python", "Django", "PostgreSQL", "Linux"],
     source: "LinkedIn",
     postedDaysAgo: 1,
-    salaryRange: "5â€“8 LPA",
+    salaryRange: "5–8 LPA",
     applyUrl: "https://www.linkedin.com/jobs/view/8",
     description: "Join our product engineering team to build and extend Zoho applications. You will write clean Python code, write tests and deploy to production. We value curiosity and long-term thinking. In-house training and mentorship provided."
   },
@@ -126,7 +126,7 @@ export const JOBS_DATA = [
     skills: ["React", "TypeScript", "Redux", "GraphQL"],
     source: "Indeed",
     postedDaysAgo: 0,
-    salaryRange: "12â€“20 LPA",
+    salaryRange: "12–20 LPA",
     applyUrl: "https://www.indeed.com/job/9",
     description: "Build user interfaces for our consumer and partner apps. You will own features end-to-end, collaborate with design and backend teams, and ensure performance and accessibility. Strong React and JavaScript fundamentals required."
   },
@@ -140,7 +140,7 @@ export const JOBS_DATA = [
     skills: ["C++", "Algorithms", "Problem Solving", "Git"],
     source: "LinkedIn",
     postedDaysAgo: 6,
-    salaryRange: "â‚¹50kâ€“â‚¹70k/month Internship",
+    salaryRange: "₹50k–₹70k/month Internship",
     applyUrl: "https://www.linkedin.com/jobs/view/10",
     description: "Twelve-week summer internship on Azure or Office 365 teams. You will implement features, fix bugs and participate in design discussions. We look for strong CS fundamentals and coding ability. Conversion to full-time possible based on performance."
   },
@@ -154,7 +154,7 @@ export const JOBS_DATA = [
     skills: ["Java", "Cloud", "Agile", "Testing"],
     source: "Naukri",
     postedDaysAgo: 8,
-    salaryRange: "4â€“6 LPA",
+    salaryRange: "4–6 LPA",
     applyUrl: "https://www.naukri.com/job/11",
     description: "Join our technology academy and work on client projects across industries. You will receive training in cloud, DevOps and modern development practices. Flexibility to work in different technologies based on project need."
   },
@@ -168,7 +168,7 @@ export const JOBS_DATA = [
     skills: ["Java", "Kafka", "Cassandra", "Microservices"],
     source: "LinkedIn",
     postedDaysAgo: 2,
-    salaryRange: "8â€“14 LPA",
+    salaryRange: "8–14 LPA",
     applyUrl: "https://www.linkedin.com/jobs/view/12",
     description: "Contribute to systems that process millions of UPI transactions daily. You will work on scalable backend services, event-driven pipelines and data stores. Prior internship or project experience in distributed systems is a plus."
   },
@@ -182,7 +182,7 @@ export const JOBS_DATA = [
     skills: ["React", "React Native", "JavaScript", "APIs"],
     source: "Indeed",
     postedDaysAgo: 4,
-    salaryRange: "14â€“22 LPA",
+    salaryRange: "14–22 LPA",
     applyUrl: "https://www.indeed.com/job/13",
     description: "Build delightful experiences for our credit and rewards app. You will work closely with product and design to ship features that millions of users interact with. Strong sense of UX and performance optimisation expected."
   },
@@ -196,7 +196,7 @@ export const JOBS_DATA = [
     skills: ["Selenium", "Java", "API Testing", "JIRA"],
     source: "Naukri",
     postedDaysAgo: 5,
-    salaryRange: "5â€“8 LPA",
+    salaryRange: "5–8 LPA",
     applyUrl: "https://www.naukri.com/job/14",
     description: "Design and automate test cases for web and API projects. You will work in agile squads and ensure quality of releases. Knowledge of any automation framework and basic programming is required. ISTQB foundation is a plus."
   },
@@ -210,7 +210,7 @@ export const JOBS_DATA = [
     skills: ["SQL", "Python", "Statistics", "Tableau"],
     source: "LinkedIn",
     postedDaysAgo: 3,
-    salaryRange: "â‚¹35kâ€“â‚¹50k/month Internship",
+    salaryRange: "₹35k–₹50k/month Internship",
     applyUrl: "https://www.linkedin.com/jobs/view/15",
     description: "Analyse payment and checkout data to improve conversion and performance. You will run A/B tests, build reports and work with product and engineering. Comfort with numbers and scripting is essential. Payments domain exposure provided."
   },
@@ -224,7 +224,7 @@ export const JOBS_DATA = [
     skills: ["Java", "Spring", "Oracle", "Kafka"],
     source: "Naukri",
     postedDaysAgo: 9,
-    salaryRange: "8â€“14 LPA",
+    salaryRange: "8–14 LPA",
     applyUrl: "https://www.naukri.com/job/16",
     description: "Develop enterprise applications for global clients in banking and healthcare. You will work on Java/Spring-based services, integrate with message queues and databases. Experience with agile and CI/CD preferred."
   },
@@ -238,7 +238,7 @@ export const JOBS_DATA = [
     skills: ["Python", "Django", "Docker", "AWS"],
     source: "LinkedIn",
     postedDaysAgo: 1,
-    salaryRange: "10â€“16 LPA",
+    salaryRange: "10–16 LPA",
     applyUrl: "https://www.linkedin.com/jobs/view/17",
     description: "Work on IBM Cloud or Watson services. You will build APIs, automate workflows and deploy on cloud. Strong Python skills and familiarity with Linux and containers required. Opportunity to work on open source and internal tools."
   },
@@ -252,7 +252,7 @@ export const JOBS_DATA = [
     skills: ["React", "JavaScript", "HTML", "CSS"],
     source: "Indeed",
     postedDaysAgo: 6,
-    salaryRange: "5â€“9 LPA",
+    salaryRange: "5–9 LPA",
     applyUrl: "https://www.indeed.com/job/18",
     description: "Join our frontend team to build features for Paytm app and merchant dashboards. You will work with designers and backend developers in an agile setup. Training on our stack and codebase will be provided. Good problem-solving skills expected."
   },
@@ -266,7 +266,7 @@ export const JOBS_DATA = [
     skills: ["Java", "SQL", "Cloud", "Algorithms"],
     source: "Naukri",
     postedDaysAgo: 2,
-    salaryRange: "â‚¹45kâ€“â‚¹55k/month Internship",
+    salaryRange: "₹45k–₹55k/month Internship",
     applyUrl: "https://www.naukri.com/job/19",
     description: "Intern on Oracle Cloud Infrastructure or database teams. You will implement features, write tests and document code. Strong fundamentals in data structures and object-oriented design required. Mentorship and learning sessions provided."
   },
@@ -280,7 +280,7 @@ export const JOBS_DATA = [
     skills: ["Java", "SQL", "Web Technologies", "SDLC"],
     source: "Naukri",
     postedDaysAgo: 10,
-    salaryRange: "3â€“5 LPA",
+    salaryRange: "3–5 LPA",
     applyUrl: "https://www.naukri.com/job/20",
     description: "GET program for engineering graduates. Initial training in Java or .NET followed by deployment on client projects in BFSI or manufacturing. We look for good academics and willingness to learn. Rotational shifts may apply."
   },
@@ -294,7 +294,7 @@ export const JOBS_DATA = [
     skills: ["Python", "PostgreSQL", "Redis", "REST"],
     source: "LinkedIn",
     postedDaysAgo: 0,
-    salaryRange: "7â€“12 LPA",
+    salaryRange: "7–12 LPA",
     applyUrl: "https://www.linkedin.com/jobs/view/21",
     description: "Build services for our hyperlocal delivery platform. You will work on order management, inventory and partner APIs. Fast-paced startup environment. Prior internship or strong project portfolio in backend development preferred."
   },
@@ -308,7 +308,7 @@ export const JOBS_DATA = [
     skills: ["React", "JavaScript", "CSS", "Responsive Design"],
     source: "Indeed",
     postedDaysAgo: 4,
-    salaryRange: "â‚¹30kâ€“â‚¹40k/month Internship",
+    salaryRange: "₹30k–₹40k/month Internship",
     applyUrl: "https://www.indeed.com/job/22",
     description: "Work on web experiences for diners and restaurant partners. You will implement UI from mockups, ensure cross-browser compatibility and participate in code reviews. Interest in food tech and scale is a plus."
   },
@@ -322,7 +322,7 @@ export const JOBS_DATA = [
     skills: ["Manual Testing", "SQL", "Test Planning", "Defect Tracking"],
     source: "Naukri",
     postedDaysAgo: 7,
-    salaryRange: "â‚¹18kâ€“â‚¹28k/month Internship",
+    salaryRange: "₹18k–₹28k/month Internship",
     applyUrl: "https://www.naukri.com/job/23",
     description: "Support QA leads in test execution and reporting for telecom and enterprise projects. You will learn test methodologies and tools. Basic understanding of software testing and good communication skills required."
   },
@@ -336,7 +336,7 @@ export const JOBS_DATA = [
     skills: ["SQL", "Python", "Excel", "Data Analysis"],
     source: "LinkedIn",
     postedDaysAgo: 5,
-    salaryRange: "â‚¹28kâ€“â‚¹42k/month Internship",
+    salaryRange: "₹28k–₹42k/month Internship",
     applyUrl: "https://www.linkedin.com/jobs/view/24",
     description: "Analyse ride-sharing and mobility data to support operations and product decisions. You will build dashboards, run queries and present insights. Strong analytical thinking and familiarity with spreadsheets and SQL expected."
   },
@@ -350,7 +350,7 @@ export const JOBS_DATA = [
     skills: ["Java", "Spring", "Hibernate", "REST APIs"],
     source: "Naukri",
     postedDaysAgo: 3,
-    salaryRange: "5â€“9 LPA",
+    salaryRange: "5–9 LPA",
     applyUrl: "https://www.naukri.com/job/25",
     description: "Develop and maintain Java applications for our global clients. You will work in agile teams and use standard frameworks. Training on project-specific tools will be provided. Good academic background and coding skills required."
   },
@@ -364,7 +364,7 @@ export const JOBS_DATA = [
     skills: ["Python", "Testing", "Clean Code", "Agile"],
     source: "LinkedIn",
     postedDaysAgo: 1,
-    salaryRange: "6â€“10 LPA",
+    salaryRange: "6–10 LPA",
     applyUrl: "https://www.linkedin.com/jobs/view/26",
     description: "Join our graduate program and work on client projects across domains. You will write quality code, pair with senior developers and participate in agile ceremonies. We value diversity and continuous learning."
   },
@@ -378,7 +378,7 @@ export const JOBS_DATA = [
     skills: ["React", "Redux", "TypeScript", "Performance"],
     source: "Indeed",
     postedDaysAgo: 2,
-    salaryRange: "15â€“25 LPA",
+    salaryRange: "15–25 LPA",
     applyUrl: "https://www.indeed.com/job/27",
     description: "Build frontend for our social and short-video products used by millions. You will own features, optimise load times and work with product and design. Experience with large-scale React apps and state management required."
   },
@@ -392,7 +392,7 @@ export const JOBS_DATA = [
     skills: ["Java", "JavaScript", "Databases", "Algorithms"],
     source: "Naukri",
     postedDaysAgo: 8,
-    salaryRange: "â‚¹50kâ€“â‚¹65k/month Internship",
+    salaryRange: "₹50k–₹65k/month Internship",
     applyUrl: "https://www.naukri.com/job/28",
     description: "Work on SAP products or cloud solutions. You will contribute to features, tests and documentation. Strong CS fundamentals and one programming language required. Collaborative and inclusive work culture."
   },
@@ -406,7 +406,7 @@ export const JOBS_DATA = [
     skills: ["Java", "Python", "Cloud Basics", "SQL"],
     source: "Naukri",
     postedDaysAgo: 6,
-    salaryRange: "4â€“6 LPA",
+    salaryRange: "4–6 LPA",
     applyUrl: "https://www.naukri.com/job/29",
     description: "GET program with training in full-stack or cloud. Post training you will join project teams working for global clients. We look for learning agility and good communication. Multiple locations possible after training."
   },
@@ -420,7 +420,7 @@ export const JOBS_DATA = [
     skills: ["Node.js", "PostgreSQL", "Redis", "APIs"],
     source: "LinkedIn",
     postedDaysAgo: 0,
-    salaryRange: "10â€“16 LPA",
+    salaryRange: "10–16 LPA",
     applyUrl: "https://www.linkedin.com/jobs/view/30",
     description: "Help build and scale Postman's platform used by developers worldwide. You will work on API platform services, data pipelines and internal tools. Strong JavaScript/Node and database skills preferred. Remote-first culture."
   },
@@ -434,7 +434,7 @@ export const JOBS_DATA = [
     skills: ["React", "Vue", "JavaScript", "Dashboard UI"],
     source: "Indeed",
     postedDaysAgo: 4,
-    salaryRange: "12â€“18 LPA",
+    salaryRange: "12–18 LPA",
     applyUrl: "https://www.indeed.com/job/31",
     description: "Build analytics and engagement dashboards for our B2B product. You will create reusable components, integrate with APIs and ensure responsive design. Experience with React or Vue and charting libraries preferred."
   },
@@ -448,7 +448,7 @@ export const JOBS_DATA = [
     skills: ["Manual Testing", "SQL", "JIRA", "Test Cases"],
     source: "Naukri",
     postedDaysAgo: 9,
-    salaryRange: "3â€“5 LPA",
+    salaryRange: "3–5 LPA",
     applyUrl: "https://www.naukri.com/job/32",
     description: "Execute test cases and log defects for banking and insurance applications. You will work in defined test cycles and report status. Basic knowledge of testing concepts and attention to detail required. Training on domain and tools provided."
   },
@@ -462,7 +462,7 @@ export const JOBS_DATA = [
     skills: ["SQL", "Python", "Excel", "Analytics"],
     source: "LinkedIn",
     postedDaysAgo: 3,
-    salaryRange: "â‚¹25kâ€“â‚¹38k/month Internship",
+    salaryRange: "₹25k–₹38k/month Internship",
     applyUrl: "https://www.linkedin.com/jobs/view/33",
     description: "Analyse user behaviour and content performance data for our edtech platform. You will run queries, create reports and support product and growth teams. Comfort with data and curiosity to find patterns expected."
   },
@@ -476,7 +476,7 @@ export const JOBS_DATA = [
     skills: ["Java", "Spring", "Kafka", "Microservices"],
     source: "LinkedIn",
     postedDaysAgo: 2,
-    salaryRange: "12â€“18 LPA",
+    salaryRange: "12–18 LPA",
     applyUrl: "https://www.linkedin.com/jobs/view/34",
     description: "Develop enterprise software for Dell's infrastructure or cloud offerings. You will work on Java services, message queues and cloud APIs. Experience with distributed systems and agile development preferred."
   },
@@ -490,7 +490,7 @@ export const JOBS_DATA = [
     skills: ["Python", "Django", "MySQL", "Linux"],
     source: "Naukri",
     postedDaysAgo: 5,
-    salaryRange: "8â€“12 LPA",
+    salaryRange: "8–12 LPA",
     applyUrl: "https://www.naukri.com/job/35",
     description: "Build and maintain ad tech and publisher-facing systems. You will write Python services, integrate with databases and work on high-throughput pipelines. Strong fundamentals and willingness to learn ad tech domain required."
   },
@@ -504,7 +504,7 @@ export const JOBS_DATA = [
     skills: ["React", "JavaScript", "CSS", "REST APIs"],
     source: "Indeed",
     postedDaysAgo: 1,
-    salaryRange: "8â€“14 LPA",
+    salaryRange: "8–14 LPA",
     applyUrl: "https://www.indeed.com/job/36",
     description: "Contribute to our testing platform used by developers globally. You will build UI components, integrate with backend and ensure cross-browser compatibility. Remote work with flexible hours. Strong React basics required."
   },
@@ -518,7 +518,7 @@ export const JOBS_DATA = [
     skills: ["Java", "Data Structures", "OOP", "Algorithms"],
     source: "LinkedIn",
     postedDaysAgo: 7,
-    salaryRange: "â‚¹45kâ€“â‚¹60k/month Internship",
+    salaryRange: "₹45k–₹60k/month Internship",
     applyUrl: "https://www.linkedin.com/jobs/view/37",
     description: "Summer internship on TurboTax or QuickBooks teams. You will implement features, write unit tests and participate in design reviews. We look for strong problem-solving and clean code habits. PPO opportunity based on performance."
   },
@@ -532,7 +532,7 @@ export const JOBS_DATA = [
     skills: ["Java", "SQL", "Web Development", "Agile"],
     source: "Naukri",
     postedDaysAgo: 4,
-    salaryRange: "4â€“6 LPA",
+    salaryRange: "4–6 LPA",
     applyUrl: "https://www.naukri.com/job/38",
     description: "GET program with training in Java full-stack or cloud. You will then join product engineering or client delivery teams. Good academics and logical ability required. Multiple projects and technologies over time."
   },
@@ -546,7 +546,7 @@ export const JOBS_DATA = [
     skills: ["Go", "PostgreSQL", "Redis", "gRPC"],
     source: "LinkedIn",
     postedDaysAgo: 0,
-    salaryRange: "9â€“15 LPA",
+    salaryRange: "9–15 LPA",
     applyUrl: "https://www.linkedin.com/jobs/view/39",
     description: "Build backend services for our card and credit products. You will work with Go, databases and event-driven systems. Fintech experience not mandatory but strong backend fundamentals and learning agility required."
   },
@@ -560,7 +560,7 @@ export const JOBS_DATA = [
     skills: ["React", "JavaScript", "HTML", "CSS"],
     source: "Indeed",
     postedDaysAgo: 6,
-    salaryRange: "â‚¹30kâ€“â‚¹45k/month Internship",
+    salaryRange: "₹30k–₹45k/month Internship",
     applyUrl: "https://www.indeed.com/job/40",
     description: "Work on seller or buyer-facing web experiences. You will implement components, fix bugs and work with design system. E-commerce scale and impact. Prior internship or strong frontend project portfolio is a plus."
   },
@@ -574,7 +574,7 @@ export const JOBS_DATA = [
     skills: ["API Testing", "Postman", "SQL", "Test Cases"],
     source: "Naukri",
     postedDaysAgo: 8,
-    salaryRange: "â‚¹20kâ€“â‚¹30k/month Internship",
+    salaryRange: "₹20k–₹30k/month Internship",
     applyUrl: "https://www.naukri.com/job/41",
     description: "Support QA in testing our app and backend APIs. You will create test cases, run regression and log defects. Understanding of APIs and basic scripting is a plus. Consumer tech and fast-paced environment."
   },
@@ -588,7 +588,7 @@ export const JOBS_DATA = [
     skills: ["SQL", "Python", "Metrics", "Dashboards"],
     source: "LinkedIn",
     postedDaysAgo: 2,
-    salaryRange: "â‚¹35kâ€“â‚¹50k/month Internship",
+    salaryRange: "₹35k–₹50k/month Internship",
     applyUrl: "https://www.linkedin.com/jobs/view/42",
     description: "Analyse payment and merchant data to drive product and growth decisions. You will build reports, run cohort analyses and present to stakeholders. Strong SQL and logical reasoning. Fintech exposure provided."
   },
@@ -602,7 +602,7 @@ export const JOBS_DATA = [
     skills: ["Java", "Spring", "AWS", "REST"],
     source: "Naukri",
     postedDaysAgo: 5,
-    salaryRange: "6â€“10 LPA",
+    salaryRange: "6–10 LPA",
     applyUrl: "https://www.naukri.com/job/43",
     description: "Develop applications for global clients across retail and technology. You will work on Java/Spring projects and cloud services. Training on client domain and tools provided. Good communication and teamwork expected."
   },
@@ -616,7 +616,7 @@ export const JOBS_DATA = [
     skills: ["Python", "Django", "PostgreSQL", "APIs"],
     source: "LinkedIn",
     postedDaysAgo: 3,
-    salaryRange: "6â€“10 LPA",
+    salaryRange: "6–10 LPA",
     applyUrl: "https://www.linkedin.com/jobs/view/44",
     description: "Build features for our technical assessment platform. You will work on backend services, integrations and internal tools. Remote-first. Strong Python and problem-solving skills. Interest in developer tools and assessments preferred."
   },
@@ -630,7 +630,7 @@ export const JOBS_DATA = [
     skills: ["React", "Redux", "TypeScript", "Webpack"],
     source: "Indeed",
     postedDaysAgo: 1,
-    salaryRange: "12â€“18 LPA",
+    salaryRange: "12–18 LPA",
     applyUrl: "https://www.indeed.com/job/45",
     description: "Build customer and designer-facing web apps for our home interior platform. You will own modules, ensure performance and work with design system. Prior experience with React and state management required."
   },
@@ -644,7 +644,7 @@ export const JOBS_DATA = [
     skills: ["Java", "C++", "Algorithms", "Data Structures"],
     source: "LinkedIn",
     postedDaysAgo: 9,
-    salaryRange: "â‚¹60kâ€“â‚¹80k/month Internship",
+    salaryRange: "₹60k–₹80k/month Internship",
     applyUrl: "https://www.linkedin.com/jobs/view/46",
     description: "Summer analyst program in engineering. You will work on trading, risk or platform systems. Strong CS fundamentals and problem-solving required. Structured program with mentorship and networking. Conversion possible."
   },
@@ -658,7 +658,7 @@ export const JOBS_DATA = [
     skills: ["Java", "SQL", "Testing", "SDLC"],
     source: "Naukri",
     postedDaysAgo: 10,
-    salaryRange: "3â€“5 LPA",
+    salaryRange: "3–5 LPA",
     applyUrl: "https://www.naukri.com/job/47",
     description: "GET program with initial training and then deployment on client projects. You may work in development, testing or support. We value learning attitude and teamwork. Multiple business units and technologies."
   },
@@ -672,7 +672,7 @@ export const JOBS_DATA = [
     skills: ["Java", "Spring", "Oracle", "Kafka"],
     source: "Naukri",
     postedDaysAgo: 4,
-    salaryRange: "8â€“14 LPA",
+    salaryRange: "8–14 LPA",
     applyUrl: "https://www.naukri.com/job/48",
     description: "Develop and maintain applications for our global banking technology team. You will work on Java-based services and databases. Understanding of financial domain is a plus. Structured onboarding and training provided."
   },
@@ -686,7 +686,7 @@ export const JOBS_DATA = [
     skills: ["React", "JavaScript", "Performance", "A/B Testing"],
     source: "Indeed",
     postedDaysAgo: 6,
-    salaryRange: "10â€“16 LPA",
+    salaryRange: "10–16 LPA",
     applyUrl: "https://www.indeed.com/job/49",
     description: "Build user interfaces for our insurance comparison and purchase flows. You will work on conversion optimisation, responsive design and integration with backend. Prior experience with React and analytics preferred."
   },
@@ -700,7 +700,7 @@ export const JOBS_DATA = [
     skills: ["Selenium", "Java", "API Testing", "Mobile Testing"],
     source: "Naukri",
     postedDaysAgo: 7,
-    salaryRange: "5â€“8 LPA",
+    salaryRange: "5–8 LPA",
     applyUrl: "https://www.naukri.com/job/50",
     description: "Test web and mobile applications for our travel platform. You will write and automate test cases and work in agile sprints. Knowledge of any automation tool and basic programming required. Travel domain exposure provided."
   },
@@ -714,7 +714,7 @@ export const JOBS_DATA = [
     skills: ["SQL", "Python", "Excel", "Visualisation"],
     source: "LinkedIn",
     postedDaysAgo: 0,
-    salaryRange: "â‚¹28kâ€“â‚¹40k/month Internship",
+    salaryRange: "₹28k–₹40k/month Internship",
     applyUrl: "https://www.linkedin.com/jobs/view/51",
     description: "Analyse user engagement and fitness data to support product and growth. You will build dashboards, run queries and present insights. Interest in health and fitness tech is a plus. Strong analytical skills required."
   },
@@ -728,7 +728,7 @@ export const JOBS_DATA = [
     skills: ["Java", "Spring Boot", "Kafka", "Microservices"],
     source: "LinkedIn",
     postedDaysAgo: 2,
-    salaryRange: "14â€“22 LPA",
+    salaryRange: "14–22 LPA",
     applyUrl: "https://www.linkedin.com/jobs/view/52",
     description: "Build scalable systems for Walmart's e-commerce and supply chain. You will work on high-throughput services and event-driven architecture. Experience with distributed systems and cloud preferred. Large-scale retail tech."
   },
@@ -742,7 +742,7 @@ export const JOBS_DATA = [
     skills: ["Python", "Django", "AWS", "ML Pipelines"],
     source: "Indeed",
     postedDaysAgo: 5,
-    salaryRange: "14â€“24 LPA",
+    salaryRange: "14–24 LPA",
     applyUrl: "https://www.indeed.com/job/53",
     description: "Work on Adobe's creative or document cloud products. You will build services, data pipelines and internal tools. Strong Python and experience with cloud or ML pipelines preferred. Inclusive and innovative culture."
   },
@@ -756,7 +756,7 @@ export const JOBS_DATA = [
     skills: ["React", "JavaScript", "REST", "Git"],
     source: "Naukri",
     postedDaysAgo: 8,
-    salaryRange: "6â€“10 LPA",
+    salaryRange: "6–10 LPA",
     applyUrl: "https://www.naukri.com/job/54",
     description: "Build dashboards and tools for our logistics and operations teams. You will implement UI components and integrate with backend APIs. Prior internship or strong project in React preferred. Logistics domain exposure provided."
   },
@@ -770,7 +770,7 @@ export const JOBS_DATA = [
     skills: ["Java", "Python", "Virtualisation Basics", "Algorithms"],
     source: "LinkedIn",
     postedDaysAgo: 3,
-    salaryRange: "â‚¹50kâ€“â‚¹65k/month Internship",
+    salaryRange: "₹50k–₹65k/month Internship",
     applyUrl: "https://www.linkedin.com/jobs/view/55",
     description: "Work on cloud or virtualisation products. You will implement features, write tests and participate in code reviews. Strong fundamentals in CS and one programming language required. Mentorship and learning culture."
   },
@@ -784,7 +784,7 @@ export const JOBS_DATA = [
     skills: ["Java", "C", "Embedded Basics", "SQL"],
     source: "Naukri",
     postedDaysAgo: 6,
-    salaryRange: "3â€“5 LPA",
+    salaryRange: "3–5 LPA",
     applyUrl: "https://www.naukri.com/job/56",
     description: "GET program in engineering and design services. You may work on software, embedded or aerospace projects. Training on domain and tools provided. We look for strong academics and adaptability."
   },
@@ -798,7 +798,7 @@ export const JOBS_DATA = [
     skills: ["Node.js", "MongoDB", "Redis", "REST"],
     source: "LinkedIn",
     postedDaysAgo: 1,
-    salaryRange: "7â€“12 LPA",
+    salaryRange: "7–12 LPA",
     applyUrl: "https://www.linkedin.com/jobs/view/57",
     description: "Build backend services for our cloud kitchen and delivery platform. You will work on order and inventory systems. Startup environment. Prior internship or projects in Node or Python preferred."
   },
@@ -812,7 +812,7 @@ export const JOBS_DATA = [
     skills: ["React", "TypeScript", "Charting", "WebSocket"],
     source: "Indeed",
     postedDaysAgo: 4,
-    salaryRange: "â‚¹35kâ€“â‚¹50k/month Internship",
+    salaryRange: "₹35k–₹50k/month Internship",
     applyUrl: "https://www.indeed.com/job/58",
     description: "Contribute to our trading and investment platform UI. You will work on real-time data visualisation and responsive components. Interest in fintech and markets is a plus. Strong React and JavaScript basics required."
   },
@@ -826,7 +826,7 @@ export const JOBS_DATA = [
     skills: ["Manual Testing", "Mobile", "SQL", "JIRA"],
     source: "Naukri",
     postedDaysAgo: 9,
-    salaryRange: "â‚¹18kâ€“â‚¹28k/month Internship",
+    salaryRange: "₹18k–₹28k/month Internship",
     applyUrl: "https://www.naukri.com/job/59",
     description: "Support QA in testing our app and web platform. You will execute test cases, log defects and work in agile sprints. Understanding of e-commerce flows is a plus. Training on tools and processes provided."
   },
@@ -840,7 +840,7 @@ export const JOBS_DATA = [
     skills: ["SQL", "Excel", "Python", "Reporting"],
     source: "LinkedIn",
     postedDaysAgo: 2,
-    salaryRange: "â‚¹25kâ€“â‚¹38k/month Internship",
+    salaryRange: "₹25k–₹38k/month Internship",
     applyUrl: "https://www.linkedin.com/jobs/view/60",
     description: "Analyse sales, inventory and customer data for our beauty and fashion platform. You will build reports and support category and growth teams. Comfort with numbers and attention to detail. E-commerce analytics exposure."
   }

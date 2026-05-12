@@ -253,7 +253,7 @@ export default function Jobs() {
 
   return (
     <section className="route-content">
-      <h1 className="heading-1">{tab === 'digest' ? 'Digest' : tab === 'saved' ? 'Saved' : 'Dashboard'}</h1>
+      <h1 className="heading-1">{tab === 'digest' ? 'Digest' : tab === 'saved' ? 'Saved' : 'All jobs'}</h1>
       <p className="subtext">
         {tab === 'digest'
           ? "Your daily summary, delivered at 9AM."
